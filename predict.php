@@ -1,4 +1,4 @@
-  <?php
+<?php
   $query = $_GET["query"];
   if($query == null){
     //return movie list
